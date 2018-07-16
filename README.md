@@ -1,5 +1,8 @@
 # NgxRouteUtils
 
+**DEPRECATED REPOSITORY**: USE THIS REPO INSTEAD https://github.com/nowzoo/ngx/tree/master/projects/ngx-route-utils
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
